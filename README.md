@@ -57,7 +57,6 @@ YOLOv8, Deep Learning, Stable Diffusion, Computer Vision
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raboudidhia&theme=tokyonight" />
 </p>
 
----
 
 ### 📫 Contact Me  
 - ✉️ Email: **dhiaraboudi1@gmail.com**  
@@ -66,7 +65,11 @@ YOLOv8, Deep Learning, Stable Diffusion, Computer Vision
 
 ---
 
-### 🧩 Badges (Optional)
+### 🧩 Badges 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
