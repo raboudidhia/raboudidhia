@@ -51,11 +51,16 @@ YOLOv8, Deep Learning, Stable Diffusion, Computer Vision
 
 ---
 
-### 📈 GitHub Stats  
+### 📈 GitHub Stats
+
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=raboudidhia&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raboudidhia&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raboudidhia&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raboudidhia&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 
 ### 📫 Contact Me  
